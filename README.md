@@ -1,5 +1,5 @@
-### Hello, I'm Nils Rousseau👋
-## A yung software engineer 🤓
+## Hello, I'm Nils Rousseau👋
+### A yung software engineer 🤓
 
 - I speak French, German and English  🇫🇷 🇩🇪 🇬🇧
 - 🔭 I’m currently working on a discord bot and a recruitment application
