@@ -4,8 +4,8 @@
 ## 💫 About Me:
 - 🎂 I'm 15
 - 🗣️ I speak French, German and English
-- 🧩 I’m currently working on a Bukkit plugin
-- 🌱 I’m currently learning garry's mod scripting
+- 💼 I’m currently working on emulators writing (CHIP-8, Game-Boy, custom CPU architectures, etc)
+- 🌱 I’m currently learning emulation and virtualization
 
 
 ## 🌐 Socials:
