@@ -30,5 +30,5 @@
 Contact tar1dev on discord
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NilsRousseau&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tar1dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
