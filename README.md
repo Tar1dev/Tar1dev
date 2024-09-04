@@ -28,7 +28,3 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tar1dev) 
 Contact tar1dev on discord
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tar1dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
