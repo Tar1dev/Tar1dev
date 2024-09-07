@@ -4,7 +4,7 @@
 ## 💫 About Me:
 - 🎂 I'm 15
 - 💼 I’m currently working on high school projects
-- 🌱 I’m currently learning reverse engineering
+- 🌱 I’m currently learning reverse engineering and serverless
 
 
 ## 🛠 Tech Stack
