@@ -3,8 +3,8 @@
 
 ## 💫 About Me:
 - 🎂 I'm 15
-- 💼 I’m currently working on high school projects
-- 🌱 I’m currently learning reverse engineering and serverless
+- 💼 I’m currently working on some Laravel projects to train myself
+- 🌱 I’m currently learning Laravel
 
 
 ## 🛠 Tech Stack
