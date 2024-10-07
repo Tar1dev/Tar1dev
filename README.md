@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 - 🎂 I'm 15
-- 💼 I’m currently working on some Laravel projects to train myself
+- 💼 I’m currently working on an E-commerce high school project
 - 🌱 I’m currently learning Laravel
 
 
